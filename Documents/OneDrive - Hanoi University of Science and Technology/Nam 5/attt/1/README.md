@@ -1,6 +1,8 @@
 ## keras lstm rnn to perform binary classification on request logs.
 
-As explained in [Detecting Malicious Requests Using Keras & Tensorflow](https://medium.com/slalom-engineering/detecting-malicious-requests-with-keras-tensorflow-5d5db06b4f28)
+## Requirement
+- Keras
+- Tensorflow
 
 ### python train.py [path to access.csv]
 
