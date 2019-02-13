@@ -4,9 +4,11 @@
 - Keras
 - Tensorflow
 - h5py
+- python 3 or 
 
 
 ### python train.py [path to access.csv]
+Run command :python train.py
 
 Training will split dataset into 75% train and 25% evaluation subsets. Model and metadata are saved upon completion.
 
