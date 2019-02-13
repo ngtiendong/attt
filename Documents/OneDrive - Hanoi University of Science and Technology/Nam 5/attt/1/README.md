@@ -3,6 +3,8 @@
 ## Requirement
 - Keras
 - Tensorflow
+- h5py
+
 
 ### python train.py [path to access.csv]
 
@@ -14,4 +16,3 @@ Loads saved model created from training to output confidence on given request en
 
 #### Requirements:
 - keras @ 2.0.5
-- h5py
